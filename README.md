@@ -8,6 +8,8 @@ _________________________________
 **<p align="center"> Computer Science, Faculty of Electronics, 6 semester </p>**
 **<p align="center"> Radoslaw Lis </p>**
 
+Take look at [this](https://github.com/radosz99/scrabble-cheater-api), it is the same algorithm distributed as an API in Flask.
+
 # Table of Contents
 - [General info](#desc)  
 - [Run](#run)  
